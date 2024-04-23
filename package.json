@@ -1,6 +1,6 @@
 {
-  "name": "us66-my-calcultor",
-  "version": "1.0.0",
+  "name": "us66-my-calculator",
+  "version": "1.0.1",
   "description": "a simple calcultor",
   "main": "index.js",
   "type": "module",
